@@ -1,0 +1,22 @@
+{
+    "components": [
+        {
+            "type": "comp1",
+            "data": {               
+            }
+        },
+        {
+            "type": "comp2",
+            "data": {
+                "text": "Example text"          
+            }
+        },
+        {
+          "type": "link",
+          "data": {
+              "link": "/home",
+              "linkText": "Go to Home"
+          }
+        }
+    ]
+}

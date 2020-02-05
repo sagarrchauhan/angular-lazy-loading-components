@@ -1,0 +1,27 @@
+{
+    "components": [
+        {
+            "type": "comp3",
+            "data": {     
+                "children": [
+                    {"text": "Text 1"},
+                    {"text": "Text 2"},
+                    {"text": "Text 3"}
+                ]          
+            }
+        },
+        {
+            "type": "comp2",
+            "data": {
+                "text": "Example text 3"          
+            }
+        },
+        {
+          "type": "link",
+          "data": {
+              "link": "/home",
+              "linkText": "Go to Home"
+          }
+        }
+    ]
+}

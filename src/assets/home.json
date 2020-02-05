@@ -1,0 +1,25 @@
+{
+    "components": [
+        {
+          "type": "link",
+          "data": {
+              "link": "/page1",
+              "linkText": "Go to Page 1"
+          }
+        },
+        {
+            "type": "link",
+            "data": {
+                "link": "/page2",
+                "linkText": "Go to Page 2"
+            }
+        },
+        {
+            "type": "link",
+            "data": {
+                "link": "/page3",
+                "linkText": "Go to Page 3"
+            }
+        }
+    ]
+}
