@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { LinkComponent } from 'src/app/components/link/link.component';
+import { LinkComponent } from '../../components/link/link.component';
 
 
 

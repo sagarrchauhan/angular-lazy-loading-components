@@ -1,5 +1,5 @@
 import { Injectable, InjectionToken, Type, Injector, NgModuleFactoryLoader, Inject, NgModuleFactory, ViewContainerRef } from '@angular/core';
-import { Dynamic } from 'src/app/types/dynamic';
+import { Dynamic } from '../../types/dynamic';
 
 
 export const lazyMap: LazyModules = {

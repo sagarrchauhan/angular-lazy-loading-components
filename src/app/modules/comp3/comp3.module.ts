@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { Comp3Component } from 'src/app/components/comp3/comp3.component';
-import { Comp3SubComponent } from 'src/app/components/comp3-sub/comp3-sub.component';
+import { Comp3Component } from '../../components/comp3/comp3.component';
+import { Comp3SubComponent } from '../../components/comp3-sub/comp3-sub.component';
 
 
 

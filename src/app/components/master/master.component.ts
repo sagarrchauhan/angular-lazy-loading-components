@@ -1,6 +1,6 @@
 import { Component, OnInit, ViewChild, ViewContainerRef } from '@angular/core';
-import { LazyService } from 'src/app/services/lazy/lazy.service';
-import { PageService } from 'src/app/services/page/page.service';
+import { LazyService } from '../../services/lazy/lazy.service';
+import { PageService } from '../../services/page/page.service';
 import { ActivatedRoute, Router } from '@angular/router';
 import { Subscription } from 'rxjs';
 
