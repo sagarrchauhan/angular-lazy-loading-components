@@ -28,10 +28,9 @@
             ],
             "scripts": [],
             "lazyModules": [
-              "src/app/modules/comp1/comp1.module",
-              "src/app/modules/comp2/comp2.module",
-              "src/app/modules/comp3/comp3.module",
-              "src/app/modules/comp4/comp4.module",
+              "src/app/modules/banner/banner.module",
+              "src/app/modules/paragraph/paragraph.module",
+              "src/app/modules/gallery/gallery.module",
               "src/app/modules/link/link.module"
             ]
           },

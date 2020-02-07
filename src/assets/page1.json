@@ -1,14 +1,15 @@
 {
     "components": [
         {
-            "type": "comp1",
-            "data": {               
+            "type": "banner",
+            "data": {  
+                "text": "This is a Banner component"             
             }
         },
         {
-            "type": "comp2",
+            "type": "paragraph",
             "data": {
-                "text": "Example text"          
+                "text": "This is a paragraph component"          
             }
         },
         {

@@ -1,9 +1,9 @@
 {
     "components": [
         {
-            "type": "comp2",
+            "type": "paragraph",
             "data": {
-                "text": "Example text 2"          
+                "text": "This is a paragraph in page 2"          
             }
         },
         {
