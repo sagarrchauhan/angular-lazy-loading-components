@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-comp3',
@@ -6,6 +6,8 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./comp3.component.css']
 })
 export class Comp3Component implements OnInit {
+
+  @Input() data: any;
 
   constructor() { }
 
